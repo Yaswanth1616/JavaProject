@@ -1,0 +1,25 @@
+#button1
+{
+	width : 300px;
+	height: 40px;
+	
+}
+#button2
+{
+	width : 300px;
+	height: 40px;
+}
+.login
+{
+	padding-bottom: 20px;
+
+}
+.start
+{
+	
+  text-align: center;
+  display:inline-block;
+  position:absolute;
+	top:40%;
+	left:40%;
+}
